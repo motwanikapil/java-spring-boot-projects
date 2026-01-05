@@ -1,0 +1,2 @@
+- 'var' keyword came from java 10 and it provides type inference.
+- 
